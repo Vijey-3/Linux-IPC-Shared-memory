@@ -28,6 +28,10 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 
 # RESULT:
 The program is executed successfully.
